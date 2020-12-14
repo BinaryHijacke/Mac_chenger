@@ -13,9 +13,9 @@ basic to advansd mac chenger
 
 $ Donnet 
 
-$paypal :mjykings12@gmail.com
+$ paypal :mjykings12@gmail.com
 
-$Bitcoin :1BMvK1jmYwvQn6VLfkZsTSThEiVXe7tQdU
+$ Bitcoin :1BMvK1jmYwvQn6VLfkZsTSThEiVXe7tQdU
 
 ###Download&install
 
